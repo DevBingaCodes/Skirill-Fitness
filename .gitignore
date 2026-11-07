@@ -25,3 +25,5 @@ yarn.lock
 manifest.json
 robots.txt
 
+.tsupgrader/
+

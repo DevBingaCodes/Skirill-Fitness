@@ -5,21 +5,24 @@
 In the project directory, run:
 
 ### `npm install`
-To install all the necessary packages for running the app smoothly.
+Install the project's dependencies.
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the Vite development server.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload automatically when you make changes.
+The page reloads automatically when you make changes.
 
 
 ### `npm run build`
 
-To create a production build.
+Creates a production build in the `build/` directory.
 
-### `npm run eject`
-Warning: Ejecting is irreversible!
+### `npm run preview`
 
-If you're unhappy with the default configuration in Create React App, you can use npm run eject to gain full control. It copies all configuration files and dependencies (e.g., webpack, Babel, ESLint) into your project, letting you customize them. Keep in mind that this is a one-way operation, and there's no going back. You don't have to eject, but it's there when you need it. For detailed instructions, see the official Create React App documentation.
+Serves the production build locally for a quick check.
+
+### `npm test`
+
+Runs the UI regression tests once.

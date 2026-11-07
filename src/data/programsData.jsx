@@ -14,7 +14,7 @@ export const programsData = [
         />
       </svg>
     ),
-    heading: "Strength Training",
+    heading: 'Strength Training',
     details:
       "In this program, you are trained to improve your strength through many exercises.",
   },
@@ -50,6 +50,5 @@ export const programsData = [
       "This programs is designed for those who exercises only for their body fitness not body building.",
   },
 ];
-
 
 
